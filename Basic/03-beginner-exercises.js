@@ -75,7 +75,8 @@ nSimbolo = Symbol("otro simbolo")
 nEnteroGrande = 987654321098765432109876543210n */
 
 // 10. Comenta las líneas que produzcan algún tipo de error al ejecutarse
-/*nCadena = "Adios" 
+/* las variables con const no pueden ser re-asignadas
+nCadena = "Adios" 
 nNumero = 987.654 
 nBooleano = true 
 nIndefinido = null 
